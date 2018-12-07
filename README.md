@@ -1,42 +1,33 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
-=================================================
+# Lab-37: Login/Auth
 
-## Project Name
+## Author: David Chambers
 
-### Author: Student/Group Name
+## Links and Resources
+* [repo](https://github.com/dlchambersjr/lab-37)
+* [sandbox](https://codesandbox.io/s/oloy29z16q)
 
-### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+## Modules - TO BE COMPLETED...
+### `modulename.js`
+#### Exported Values and Methods
 
-###### `foo(thing) -> string`
+##### `foo(thing) -> string`
 Usage Notes or examples
 
-###### `bar(array) -> array`
+##### `bar(array) -> array`
 Usage Notes or examples
 
-### Setup
-#### `.env` requirements
+## Setup
+### `.env` requirements
 * `PORT` - Port Number
 * `MONGODB_URI` - URL to the running mongo instance/db
 
-#### Running the app
+### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
 
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
 
-#### UML
-Link to an image of the UML for your application and response to events
+### Tests
+* I will need to test the DOM changes and state changes in the various modules.
+
+### UML
+[login-auth-uml]()
