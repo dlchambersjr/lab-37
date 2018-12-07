@@ -30,4 +30,4 @@ Usage Notes or examples
 * I will need to test the DOM changes and state changes in the various modules.
 
 ### UML
-[login-auth-uml]()
+[login-auth-uml](https://raw.githubusercontent.com/dlchambersjr/lab-37/master/lab37-login-auth-uml.jpg)
