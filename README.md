@@ -10,7 +10,7 @@
 
 #### `index.js` -> renders to the DOM
 * Purpose: Wraps the module(s) to be rendered in the store provider.
-* Renders `<App/>
+* Renders `<App/>`
 
 #### `store/index.js`
 ##### Exported Values and Methods
